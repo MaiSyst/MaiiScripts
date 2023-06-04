@@ -1,3 +1,6 @@
+#!/bin/sh
+#MaiScripts by Orion90
+
 folderTheme=$(dir $HOME/.themes)
 themes=()
 index=0
